@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-todo-62107": {
+      "hosting": {
+        "firebaseToDoList": [
+          "fir-todo-62107"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-todo-62107"
+  }
+}
